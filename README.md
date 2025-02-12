@@ -1,2 +1,5 @@
 # Site-Scrape-Projects
-Where my road of python web scraping begins
+Request
+Selenium
+
+console/network/xhr/payload
